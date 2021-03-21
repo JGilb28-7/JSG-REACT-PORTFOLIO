@@ -1,4 +1,5 @@
 import React from 'react'
+import Image1 from './assets/pexelspixabay355904.jpg'
 
 const Media = () => {
     return (
@@ -8,7 +9,7 @@ const Media = () => {
             width={64}
             height={64}
             className="mr-3"
-            src="./assets/pexelspixabay355904.jpg/64x64"
+            src={Image1}
             alt="Light Blub Image"
         />
         <Media.Body>

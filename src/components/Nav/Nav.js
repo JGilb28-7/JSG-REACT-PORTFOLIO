@@ -21,7 +21,7 @@ class Nav extends React.Component {
 
           <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-              <a className="nav-link navbar-text-size inline" href="/app">About</a>
+              <a className="nav-link navbar-text-size inline" href="./About">About</a>
               <a className="nav-link navbar-text-size inline" href="/contact">contact</a>
   
             </div>
